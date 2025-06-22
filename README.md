@@ -1,6 +1,6 @@
 <h1 align="center">Hey there, folks! 😘😘</h1>
 <h3 align="center">Lets change the world Together</h3>
-<h3 align="center"> I'm Abhineet "The Web Wiz" Garga, your friendly neighborhood web developer</h3>
+<h3 align="center"> I'm Abhineet Your Friendly Neighborhood "The Web Wiz", your friendly neighborhood web develope And a AI-ML expert</h3>
 <h2 align="center"> Hey there, folks! I'm Abhineet "The Web Wiz" Garga, your friendly neighborhood web developer. I'm here to rescue your website from the clutches of coding chaos and transform it into a digital masterpiece faster than you can say "HTML." With my trusty keyboard by my side, I'll conquer bugs and conquer CSS like a true coding superhero. So buckle up and get ready for a wild ride of web development, sprinkled with a dash of humor and a whole lot of awesomeness!</h2>
 
 
